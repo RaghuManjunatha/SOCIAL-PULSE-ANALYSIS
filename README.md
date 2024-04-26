@@ -1,5 +1,5 @@
 # SOCIAL-PULSE-ANALYSIS
-  ## navigating sentimental analysis from social media
+## Navigating sentimental analysis from social media
   
 ## Abstract:
 This paper investigates the intricate dynamics between sentiment expression, user demographics, temporal patterns, and engagement metrics on various social media platforms. Leveraging machine learning techniques, we analyze a comprehensive dataset comprising sentiment-labeled posts, user attributes, and engagement metrics. Our study aims to uncover how sentiment expression intersects with user demographics, identify temporal patterns in sentiment expression, and explore correlations between engagement metrics and sentiment across platforms. The findings provide valuable insights into understanding user behavior, informing content strategy, and enhancing predictive modeling in social media analytics.
